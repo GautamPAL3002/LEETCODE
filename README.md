@@ -21,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/GautamPAL3002/LEETCODE/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/GautamPAL3002/LEETCODE/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
