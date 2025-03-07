@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/GautamPAL3002/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/GautamPAL3002/LEETCODE/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
@@ -47,8 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
