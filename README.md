@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
