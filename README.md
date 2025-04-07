@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
