@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/GautamPAL3002/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GautamPAL3002/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/GautamPAL3002/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/GautamPAL3002/LEETCODE/tree/master/1791-richest-customer-wealth) |
 ## Simulation
