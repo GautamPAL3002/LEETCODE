@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GautamPAL3002/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 ## Ordered Set
 |  |
@@ -155,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GautamPAL3002/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GautamPAL3002/LEETCODE/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
