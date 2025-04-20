@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
 | [3227-find-missing-and-repeated-values](https://github.com/GautamPAL3002/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GautamPAL3002/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GautamPAL3002/LEETCODE/tree/master/0038-count-and-say) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +187,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
