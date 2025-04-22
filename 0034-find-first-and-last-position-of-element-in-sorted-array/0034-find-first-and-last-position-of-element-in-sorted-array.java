@@ -1,39 +1,41 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] ans = {-1,-1};
-        int start = search(nums, target,true);
-        int end = search(nums, target,false);
-        ans[0] = start;
-        ans[1] = end;
-        return ans;
+        int first = findFirstOccurrence(nums, target);
+        int last = findLastOccurrence(nums, target);
+        return new int[]{first, last};
     }
 
-    static int search(int[] nums, int target, boolean firstindex){
-        int ans = -1;
-        int start = 0;
-        int end = nums.length -1;
-
-        while(start <= end){
-            int mid = start + (end -start)/2;
-
-            if (target > nums[mid]){
-                start = mid +1;
+    private int findFirstOccurrence(int[] nums, int target) {
+        int index = -1;
+        int left = 0, right = nums.length - 1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
             }
-            else if (target < nums[mid]){
-                end = mid -1;
+            if (nums[mid] == target) {
+                index = mid; 
             }
-            else {
-                ans = mid;
-                if (firstindex){
-                    end = mid -1;
-                }
-                else {
-                    start = mid +1;
-                }
-            }
-
         }
-        return ans;
+        return index;
+    }
 
+    private int findLastOccurrence(int[] nums, int target) {
+        int index = -1;
+        int left = 0, right = nums.length - 1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] <= target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+            if (nums[mid] == target) {
+                index = mid; 
+            }
+        }
+        return index;
     }
 }
