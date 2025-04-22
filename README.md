@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/GautamPAL3002/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
+| [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/GautamPAL3002/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
+| [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/GautamPAL3002/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 ## Trie
@@ -209,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
