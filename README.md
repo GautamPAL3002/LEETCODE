@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/GautamPAL3002/LEETCODE/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/GautamPAL3002/LEETCODE/tree/master/0110-balanced-binary-tree) |
 ## Array
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GautamPAL3002/LEETCODE/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GautamPAL3002/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GautamPAL3002/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/GautamPAL3002/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
