@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GautamPAL3002/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/GautamPAL3002/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/1635-number-of-good-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 ## Interactive
 |  |
