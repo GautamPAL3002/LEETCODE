@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/GautamPAL3002/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/GautamPAL3002/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamPAL3002/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [1635-number-of-good-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
+| [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Backtracking
@@ -300,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
