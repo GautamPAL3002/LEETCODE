@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GautamPAL3002/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/GautamPAL3002/LEETCODE/tree/master/0303-range-sum-query-immutable) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GautamPAL3002/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/GautamPAL3002/LEETCODE/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/GautamPAL3002/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/GautamPAL3002/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
