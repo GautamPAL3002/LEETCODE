@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
+| [2810-collecting-chocolates](https://github.com/GautamPAL3002/LEETCODE/tree/master/2810-collecting-chocolates) |
 | [3227-find-missing-and-repeated-values](https://github.com/GautamPAL3002/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
+## Enumeration
+|  |
+| ------- |
+| [2810-collecting-chocolates](https://github.com/GautamPAL3002/LEETCODE/tree/master/2810-collecting-chocolates) |
 <!---LeetCode Topics End-->
