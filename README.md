@@ -332,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2810-collecting-chocolates](https://github.com/GautamPAL3002/LEETCODE/tree/master/2810-collecting-chocolates) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GautamPAL3002/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
