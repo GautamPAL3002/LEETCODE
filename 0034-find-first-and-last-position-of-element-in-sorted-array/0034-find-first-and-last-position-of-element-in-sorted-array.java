@@ -10,13 +10,13 @@ class Solution {
         int left = 0, right = nums.length - 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (nums[mid] < target) {
+            if (nums[mid] == target) {
+                index = mid;
+                right = mid - 1; // search on left side
+            } else if (nums[mid] < target) {
                 left = mid + 1;
             } else {
                 right = mid - 1;
-            }
-            if (nums[mid] == target) {
-                index = mid; 
             }
         }
         return index;
@@ -27,13 +27,13 @@ class Solution {
         int left = 0, right = nums.length - 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (nums[mid] <= target) {
+            if (nums[mid] == target) {
+                index = mid;
+                left = mid + 1; // search on right side
+            } else if (nums[mid] < target) {
                 left = mid + 1;
             } else {
                 right = mid - 1;
-            }
-            if (nums[mid] == target) {
-                index = mid; 
             }
         }
         return index;
