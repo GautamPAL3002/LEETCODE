@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GautamPAL3002/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamPAL3002/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/GautamPAL3002/LEETCODE/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/GautamPAL3002/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/GautamPAL3002/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
