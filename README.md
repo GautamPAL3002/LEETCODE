@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/GautamPAL3002/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamPAL3002/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 ## Enumeration
 |  |
