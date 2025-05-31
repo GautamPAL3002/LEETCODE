@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GautamPAL3002/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GautamPAL3002/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/GautamPAL3002/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/GautamPAL3002/LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/GautamPAL3002/LEETCODE/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GautamPAL3002/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
