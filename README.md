@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GautamPAL3002/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/GautamPAL3002/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GautamPAL3002/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/GautamPAL3002/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/GautamPAL3002/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GautamPAL3002/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GautamPAL3002/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/GautamPAL3002/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamPAL3002/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
