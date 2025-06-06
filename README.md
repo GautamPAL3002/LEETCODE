@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
+| [0165-compare-version-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GautamPAL3002/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/GautamPAL3002/LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/GautamPAL3002/LEETCODE/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GautamPAL3002/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
