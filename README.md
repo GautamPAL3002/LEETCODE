@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GautamPAL3002/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GautamPAL3002/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/GautamPAL3002/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamPAL3002/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GautamPAL3002/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/GautamPAL3002/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/GautamPAL3002/LEETCODE/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/GautamPAL3002/LEETCODE/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/0165-compare-version-numbers) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/GautamPAL3002/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GautamPAL3002/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0044-wildcard-matching) |
 ## Merge Sort
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
