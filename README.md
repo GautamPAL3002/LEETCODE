@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/GautamPAL3002/LEETCODE/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
 | [0835-linked-list-components](https://github.com/GautamPAL3002/LEETCODE/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/GautamPAL3002/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
