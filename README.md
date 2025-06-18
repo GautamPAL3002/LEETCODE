@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/GautamPAL3002/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/GautamPAL3002/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/GautamPAL3002/LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/GautamPAL3002/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GautamPAL3002/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/GautamPAL3002/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/GautamPAL3002/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/GautamPAL3002/LEETCODE/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
