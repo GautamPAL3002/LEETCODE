@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0835-linked-list-components](https://github.com/GautamPAL3002/LEETCODE/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
