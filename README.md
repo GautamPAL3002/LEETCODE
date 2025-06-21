@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/GautamPAL3002/LEETCODE/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/GautamPAL3002/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GautamPAL3002/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/GautamPAL3002/LEETCODE/tree/master/0044-wildcard-matching) |
+| [2573-remove-nodes-from-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/2573-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
