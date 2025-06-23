@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/GautamPAL3002/LEETCODE/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0926-find-and-replace-pattern](https://github.com/GautamPAL3002/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [0983-validate-stack-sequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GautamPAL3002/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/GautamPAL3002/LEETCODE/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/GautamPAL3002/LEETCODE/tree/master/0876-hand-of-straights) |
+| [0926-find-and-replace-pattern](https://github.com/GautamPAL3002/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [1635-number-of-good-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/GautamPAL3002/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GautamPAL3002/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0926-find-and-replace-pattern](https://github.com/GautamPAL3002/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
