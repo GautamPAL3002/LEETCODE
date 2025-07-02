@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/GautamPAL3002/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [0983-validate-stack-sequences](https://github.com/GautamPAL3002/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
+| [1130-last-stone-weight-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/1130-last-stone-weight-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/GautamPAL3002/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/GautamPAL3002/LEETCODE/tree/master/1635-number-of-good-pairs) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamPAL3002/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [1130-last-stone-weight-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/1130-last-stone-weight-ii) |
 ## Stack
 |  |
 | ------- |
