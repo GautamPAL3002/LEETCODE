@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/GautamPAL3002/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/GautamPAL3002/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GautamPAL3002/LEETCODE/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/GautamPAL3002/LEETCODE/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GautamPAL3002/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GautamPAL3002/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GautamPAL3002/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/GautamPAL3002/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/GautamPAL3002/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/GautamPAL3002/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
