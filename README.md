@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GautamPAL3002/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/GautamPAL3002/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/GautamPAL3002/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/GautamPAL3002/LEETCODE/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/GautamPAL3002/LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/GautamPAL3002/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamPAL3002/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1130-last-stone-weight-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/1130-last-stone-weight-ii) |
 ## Stack
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GautamPAL3002/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/GautamPAL3002/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/GautamPAL3002/LEETCODE/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/GautamPAL3002/LEETCODE/tree/master/0940-fruit-into-baskets) |
 ## Recursion
 |  |
