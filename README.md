@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/GautamPAL3002/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/GautamPAL3002/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/GautamPAL3002/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/GautamPAL3002/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
