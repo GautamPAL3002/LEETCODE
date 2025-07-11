@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamPAL3002/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/GautamPAL3002/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0885-exam-room](https://github.com/GautamPAL3002/LEETCODE/tree/master/0885-exam-room) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamPAL3002/LEETCODE/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0885-exam-room](https://github.com/GautamPAL3002/LEETCODE/tree/master/0885-exam-room) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/GautamPAL3002/LEETCODE/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2447-merge-similar-items](https://github.com/GautamPAL3002/LEETCODE/tree/master/2447-merge-similar-items) |
 ## String
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GautamPAL3002/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/GautamPAL3002/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0885-exam-room](https://github.com/GautamPAL3002/LEETCODE/tree/master/0885-exam-room) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GautamPAL3002/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
